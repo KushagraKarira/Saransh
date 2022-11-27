@@ -1,0 +1,37 @@
+{
+    "name": "Saransh Karira",
+    "short_name": "Saransh",
+    "start_url": "/",
+    "theme_color": "#1a5fb4",
+    "background_color": "#000000",
+    "display": "fullscreen",
+    "scope": "/",
+    "orientation": "any",
+    "dir": "ltr",
+    "lang": "en",
+    "description": "Acid Gospels",
+    "prefer_related_applications": false,
+    "categories": ["design", "developer", "games", "education", "entertainment"],
+    "shortcuts" : [
+	  {
+ 	   "name": "The Problem with Comfort zones",
+ 	   "url": "../mind/the-problem-with-comfort-zones.html",
+ 	   "icons": "../images/icons/pen.svg",
+ 	   "description": "The problem with comfort zones"
+	  },
+ 	 {
+ 	   "name": "The Hunter Mind",
+ 	   "url": "../mind/the-hunter-mind.html",
+ 	   "icons": "../images/icons/book.svg",
+ 	   "description": "The Hunter Mind"
+ 	 }
+	],
+    "icons": [
+	{
+		"src": "../static/img/favicon.svg",
+		"sizes": "any",
+		"type": "image/svg+xml",
+		"purpose": "any"
+	}
+    ]
+}
